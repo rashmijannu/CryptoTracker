@@ -7,6 +7,18 @@
   pointer-events: none;
 }
 
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+@media (max-width: 600px) {
+  .dashboard {
+    flex-direction: column;
+  }
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

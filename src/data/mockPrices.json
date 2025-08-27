@@ -1,0 +1,5 @@
+[
+  { "symbol": "BTC", "price": 45000 },
+  { "symbol": "ETH", "price": 3200 },
+  { "symbol": "SOL", "price": 160 }
+]
