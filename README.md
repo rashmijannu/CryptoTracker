@@ -1,4 +1,4 @@
-# CryptoTracker: Cryptocurrency Portfolio Dashboard  Gitrepo
+# CryptoTracker: Cryptocurrency Portfolio Dashboard 
 React, Redux, JavaScript, Chart.js, CoinGecko API
 
 ◦ Built React dashboard with Redux state management, displaying 50+ crypto prices with interactive charts.
